@@ -1,0 +1,7 @@
+.apdisk
+*.o
+*.pyc
+*.so
+python_module/build
+
+
